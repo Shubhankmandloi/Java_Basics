@@ -7,8 +7,9 @@ public class SumOfGreater100 {
 			if(i%7==0) {
 				sum =sum +i;
 			}
-			System.out.println(sum);	
+			//System.out.println(sum);	
 		}
+		System.out.println(sum);
 		
 	}
 
